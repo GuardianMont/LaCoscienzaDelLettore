@@ -17,8 +17,6 @@ L’obiettivo non è solo consigliare libri, ma creare un’esperienza **coinvol
 
 ---
 
----
-
 ## 📄 Documentazione del Progetto
 
 La documentazione completa del progetto (analisi, modello, dataset, interfaccia, valutazione) è disponibile nella cartella [`documentazione`](https://github.com/GuardianMont/LaCoscienzaDelLettore/tree/main/LaCoscienzaDelLettore/documentazione) del repository.
@@ -29,7 +27,7 @@ Contiene:
 - 🧠 Approfondimenti sul modello ibrido
 - 📊 Valutazioni e risultati
 
-📥 [Scarica la relazione completa](https://github.com/GuardianMont/LaCoscienzaDelLettore/blob/main/documentazione/La_Coscienza_Del_Lettore.pdf)
+📥 [Scarica la relazione completa](https://github.com/GuardianMont/LaCoscienzaDelLettore/blob/main/LaCoscienzaDelLettore/documentazione/La_Coscienza_Del_Lettore_report.pdf)
 
 ---
 
